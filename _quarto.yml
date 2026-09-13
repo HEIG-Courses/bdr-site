@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "!slides/images/"
+
+website:
+  title: "BDR — Bases de données relationnelles"
+  page-navigation: true
+  search: true
+  sidebar:
+    style: docked
+    logo: assets/heig-vd.svg
+    contents:
+      - href: index.qmd
+        text: "Planning"
+      - href: materiel/index.qmd
+        text: "Matériel de cours"
+      - section: "Laboratoires"
+        contents:
+          - href: labos/index.qmd
+            text: "Consignes"
+          - href: labos/labo1.qmd
+            text: "Labo 1 · Modélisation conceptuelle"
+          - href: labos/labo2.qmd
+            text: "Labo 2 · Schéma relationnel"
+          - href: labos/labo3.qmd
+            text: "Labo 3 · Requêtes SQL"
+          - href: labos/labo4.qmd
+            text: "Labo 4 · SQL avancé"
+      - href: exercices/index.qmd
+        text: "Exercices"
+      - href: projet/index.qmd
+        text: "Projet"
+
+format:
+  html:
+    theme: [litera, assets/bdr.scss]
+    lang: fr
+    lightbox: true
+    toc: true
+    toc-depth: 3
+    code-copy: true
+    link-external-newwindow: true

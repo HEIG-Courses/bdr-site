@@ -1,0 +1,21 @@
+---
+title: "Labo 3 — Requêtes SQL"
+---
+
+- Lancement : Lu 09.11 · Rendu : **Di 22.11**
+- Roster : *lien publié au lancement*
+- Chapitres : [5 et 6](../materiel/index.qmd)
+
+## But
+
+Mettre en pratique le langage de requête SQL sur la base de données *Pagila* (version modifiée de l'exemple PostgreSQL, basée sur *Sakila*).
+
+## Points étudiés
+
+- Import du schéma et des données fournis
+- Requêtes de sélection, jointures (`JOIN`), agrégation, sous-requêtes
+- Requêtes de modification, exécutées en dernier
+
+## À rendre
+
+Un fichier `queries.sql` dans le dépôt du groupe : chaque requête entre les balises `-- BEGIN Exercice X` et `-- END Exercice X`, les réponses aux questions en commentaires à l'intérieur des balises. Mots-clés SQL en majuscules.

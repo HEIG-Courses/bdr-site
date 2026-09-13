@@ -1,0 +1,27 @@
+---
+title: "Projet"
+---
+
+Réalisation complète d'une **application de base de données** sur un sujet de
+votre choix, par groupes de 3, en cinq phases. Le projet est un dépôt de
+l'organisation GitHub, créé en acceptant le projet dans
+[Roster]({{< var roster-url >}}).
+
+| Phase | Contenu | Rendu |
+|---|---|---|
+| I | Cahier des charges : analyse des besoins en données et besoins fonctionnels | **Me 30.09** |
+| II | Modélisation conceptuelle : schéma UML | **Me 14.10** |
+| III | Modélisation relationnelle : schéma relationnel, création des tables et contraintes | **Me 04.11** |
+| IV | Requêtes, vues et déclencheurs | **Me 09.12** |
+| V | Application de base de données (technologie et cadre d'utilisation de l'IA précisés en semaine 12) | **Di 17.01** |
+| — | Présentations | Lu 18.01 – Me 20.01 |
+| — | Rendu final (rapport et slides) | **29.01** |
+
+## Livrables finaux
+
+- **Slides** (PDF) : problématique, schéma conceptuel et relationnel (zoom sur les parties intéressantes), sélection de requêtes/vues/triggers, technologies, démo de l'application, défis, synthèse des fonctionnalités, conclusion.
+- **Rapport** (Markdown ou PDF) : introduction et conclusion, cahier des charges, schémas conceptuel et relationnel mis à jour, choix technologiques, défis, fonctionnalités planifiées avec leur état, bugs connus, contribution de chaque membre, captures d'écran.
+
+## Retour par phase
+
+Chaque phase reçoit un retour dans le dépôt avant la phase suivante (voir le [planning](../index.qmd)).

@@ -1,0 +1,21 @@
+---
+title: "Labo 4 — Opérations avancées SQL"
+---
+
+- Lancement : Lu 23.11 · Rendu : **Di 06.12**
+- Roster : *lien publié au lancement*
+- Chapitres : [6](../materiel/index.qmd)
+
+## But
+
+Mettre en pratique les opérations avancées de SQL sur la base *Pagila* du labo 3 : déclencheurs, vues, fonctions et procédures.
+
+## Points étudiés
+
+- Triggers (majoration d'un montant à l'insertion, journalisation, mise à jour automatique)
+- Vues, vues modifiables, `WITH CHECK OPTION`
+- Fonctions et procédures en PL/pgSQL
+
+## À rendre
+
+Un fichier `statements.sql` dans le dépôt du groupe, même convention de balises que le labo 3 ; pour chaque exercice, les requêtes qui montrent que l'opération s'est bien déroulée.

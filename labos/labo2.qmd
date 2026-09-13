@@ -1,0 +1,21 @@
+---
+title: "Labo 2 — Implémentation d'un schéma relationnel"
+---
+
+- Lancement : Me 07.10 · Rendu : **Di 18.10**
+- Roster : *lien publié au lancement*
+- Chapitres : [3 et 4](../materiel/index.qmd)
+
+## But
+
+Implémenter un schéma relationnel sous PostgreSQL et mettre en œuvre les contraintes d'intégrité référentielle appropriées, sur la base de données *Company*.
+
+## Points étudiés
+
+- Création d'une base de données avec PostgreSQL et un client SQL (DataGrip)
+- Définition de la structure des tables et des contraintes d'intégrité
+- Insertion de données, test des contraintes, comportement en cascade
+
+## À rendre
+
+Les scripts SQL demandés (création, insertion, contraintes) et les réponses aux questions, dans le dépôt du groupe.

@@ -1,0 +1,11 @@
+_site/
+.quarto/
+.DS_Store
+*.pdf
+!assets/**/*.pdf
+
+/.quarto/
+**/*.quarto_ipynb
+.idea/
+docs/
+tools/

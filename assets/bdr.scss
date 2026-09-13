@@ -1,0 +1,15 @@
+/*-- scss:defaults --*/
+
+// Base litera conservée. Cette couche ne fait que dimensionner le logo
+// HEIG-VD ; le rouge (#e1251b) vit dans le logo et nulle part ailleurs.
+
+/*-- scss:rules --*/
+
+.sidebar-logo {
+  max-height: 3rem;
+  width: auto;
+}
+
+// Planning : dates et créneaux sur une ligne
+// Planning : la colonne « Sem. » reste sur une ligne
+#planning-bdr-c ~ table td:first-child, table.planning td:first-child { white-space: nowrap; }

@@ -1,0 +1,15 @@
+---
+title: "Laboratoires"
+---
+
+- Groupes de 3, formés dans [Roster]({{< var roster-url >}}).
+- Chaque labo est un dépôt de l'organisation GitHub, créé en acceptant le labo dans Roster. Rendu = état du dépôt à l'échéance.
+- Retour et note dans la pull request *Feedback* du dépôt.
+- Assistant : Sébastien Rosat.
+
+| Labo | Sujet | Lancement | Rendu |
+|---|---|---|---|
+| [1](labo1.qmd) | Modélisation conceptuelle | Me 23.09 | **Di 04.10** |
+| [2](labo2.qmd) | Implémentation d'un schéma relationnel | Me 07.10 | **Di 18.10** |
+| [3](labo3.qmd) | Requêtes SQL | Lu 09.11 | **Di 22.11** |
+| [4](labo4.qmd) | Opérations avancées SQL | Lu 23.11 | **Di 06.12** |
