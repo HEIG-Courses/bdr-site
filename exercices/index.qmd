@@ -2,13 +2,9 @@
 title: "Exercices"
 ---
 
-Énoncés publiés avec le chapitre, corrigés ajoutés après la séance de correction, dans le dépôt privé [`cours`]({{< var files-url >}}/exercices) (accès réservé aux membres).
+Énoncés et corrigés dans le dépôt privé [`cours`]({{< var files-url >}}/exercices) (membres de l'organisation).
 
-| Ch. | Exercices | Énoncé | Corrigé | Séance |
-|---:|---|---|---|---|
-| 2 | Modèle EA : exercices I à IV (schéma *Company*) | dans les slides | à venir | en cours |
-| 4 | Passage EA → relationnel : exercices 1 et 2 | à venir | à venir | Me 28.10 |
-| 5 | Algèbre relationnelle | dans les slides | à venir | Me 28.10 |
-| 6 | SQL : *Théâtre* | à venir | à venir | |
-| 7 | Dépendances fonctionnelles et normalisation | à venir | à venir | Me 16.12 |
-| 7 | Normalisation : exercices supplémentaires | à venir | à venir | |
+| Ch. | Exercices | Énoncé | Corrigé |
+|---:|---|---|---|
+| 2 | Modèle EA, schéma *Company* | dans les slides | |
+| 5 | Algèbre relationnelle | dans les slides | |

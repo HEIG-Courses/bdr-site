@@ -2,8 +2,7 @@
 title: "Matériel de cours"
 ---
 
-Slides des chapitres en PDF. Les chapitres sont numérotés par sujet ; le
-[planning](../index.qmd) indique la semaine.
+Slides des chapitres en PDF, dans le dépôt privé [`cours`]({{< var files-url >}}) (membres de l'organisation).
 
 | Ch. | Sujet | Slides | Compléments |
 |---:|---|---|---|
@@ -18,8 +17,6 @@ Slides des chapitres en PDF. Les chapitres sont numérotés par sujet ; le
 | 7 | Dépendances fonctionnelles et normalisation | [PDF]({{< var files-url >}}/materiel/07-Dependances_fonctionnelles_et_normalisation.pdf) | [Résumé]({{< var files-url >}}/materiel/07-Dependances_fonctionnelles_et_normalisation_resume.pdf) |
 | 8 | JDBC | [PDF]({{< var files-url >}}/materiel/08-JDBC-updated.pdf) | |
 | 9 | Indexation | [PDF]({{< var files-url >}}/materiel/09-IndexationNew.pdf) | |
-
-Les PDF sont dans le dépôt privé [`cours`]({{< var files-url >}}) de l'organisation (accès réservé aux membres), publiés au plus tard le jour du cours.
 
 ## Livres de référence
 

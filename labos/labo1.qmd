@@ -4,7 +4,6 @@ title: "Labo 1 — Modélisation conceptuelle"
 
 - Lancement : Me 23.09 · Rendu : **Di 04.10**
 - Roster : *lien publié au lancement*
-- Chapitres : [2](../materiel/index.qmd)
 
 ## But
 
@@ -15,7 +14,3 @@ Modéliser une base de données à partir d'une description des besoins : établ
 - Lecture d'un énoncé et identification des entités, attributs et associations
 - Cardinalités, entités faibles, associations n-aires, héritage
 - Outil de dessin : UMLet ou StarUML
-
-## À rendre
-
-Les schémas demandés (fichiers UMLet ou StarUML et export PDF) dans le dépôt du groupe, selon les instructions du dépôt.

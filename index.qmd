@@ -5,33 +5,31 @@ subtitle: "HEIG-VD · {{< var semester >}} · classe BDR-C"
 
 - Horaires : lundi 13h00–14h30 (cours) et 14h45–16h15 (labo), salle G03 · mercredi 13h00–14h30, salle A05b
 - Inscription : [Roster BDR-C-26]({{< var roster-url >}})
-- Laboratoires : groupes de 3, rendus via Roster · assistant : Sébastien Rosat
-- Support : [Matériel de cours](materiel/index.qmd) · [Laboratoires](labos/index.qmd) · [Exercices](exercices/index.qmd) · [Projet](projet/index.qmd)
 
 ## Planning
 
-| Sem. | Lundi 13h00 (cours) | Lundi 14h45 (labo) | Mercredi 13h00 | Rendus |
-|-----:|----------------------|--------------------|----------------|--------|
-| 1 · 14.09 | Ch. 0 Introduction + Ch. 1 Concepts de base | Ch. 2 Modèle EA (partie 1) · Description du [projet](projet/index.qmd) | 16.09 · Ch. 2 Modèle EA (partie 2) | Groupes labos et projet |
-| 2 · 21.09 | *Jeûne fédéral* | — | 23.09 · Ch. 2 Modèle EA (partie 3) · Lancement du [Labo 1](labos/labo1.qmd) · Projet phase I (cahier des charges) | |
-| 3 · 28.09 | Ch. 3 Modèle relationnel | Labo 1 (suite) | 30.09 · Ch. 3 (fin) · Retour phase I | **Me 30.09** rendu phase I · **Di 04.10** rendu Labo 1 |
-| 4 · 05.10 | Ch. 4 Passage EA → relationnel | Projet phase II (modèle conceptuel) | 07.10 · [Labo 2](labos/labo2.qmd) : installation PostgreSQL, prise en main DataGrip | |
-| 5 · 12.10 | Ch. 5 Algèbre relationnelle | Ch. 5 (suite) · projet si possible | 14.10 · Retour phase II · Projet phase III | **Me 14.10** rendu phase II · **Di 18.10** rendu Labo 2 |
-| — · 19.10 | *Semaine spéciale — travail personnel* | | | |
-| 6 · 26.10 | Ch. 6 SQL partie 1 | Projet phase III (modèle relationnel) | 28.10 · Correction des exercices (algèbre relationnelle + Ch. 4) | |
-| 7 · 02.11 | Ch. 6 SQL partie 2 | Tampon : synchronisation des classes | 04.11 · Retour phase III | **Me 04.11** rendu phase III |
-| 8 · 09.11 | **Examen intermédiaire** — lundi 09.11, 13h00–14h30, chapitres 1 à 5 | [Labo 3](labos/labo3.qmd) Requêtes SQL | 11.11 · Labo 3 | |
-| 9 · 16.11 | Ch. 6 SQL partie 3 : triggers, événements, transactions, récursivité | Labo 3 | 18.11 · Ch. 6 SQL partie 4 : SQL avancé (CTE, récursif, fenêtrage) | **Di 22.11** rendu Labo 3 |
-| 10 · 23.11 | Ch. 9 Indexation | [Labo 4](labos/labo4.qmd) SQL avancé | 25.11 · Projet phase IV (requêtes) | |
-| 11 · 30.11 | Ch. 7 Normalisation partie 1 | Labo 4 | 02.12 · Projet phase IV (triggers, fonctions) | **Di 06.12** rendu Labo 4 |
-| 12 · 07.12 | Ch. 7 Normalisation partie 2 | Présentation phase V + Ch. 8 JDBC | 09.12 · Projet phase V · retour phase IV | **Me 09.12** rendu phase IV |
-| 13 · 14.12 | Ch. 7 Normalisation partie 3 (exercices) | Projet phase V | 16.12 · Correction des exercices de normalisation | |
-| — · 21.12 | *Vacances de Noël (21.12 – 08.01)* | | | |
-| 14 · 11.01 | Projet phase V | Projet phase V · état d'avancement | 13.01 · Projet phase V · état d'avancement | **Di 17.01** rendu phase V |
-| 15 · 18.01 | Présentations des projets | Présentations des projets | 20.01 · Présentations des projets · 30 min de discussion et évaluation du cours | |
-| 16 · 25.01 | Révisions et questions avant l'examen | Révisions | 27.01 · Révisions | **29.01** rendu final |
+| Sem. | Lundi 13h00 | Lundi 14h45 | Mercredi 13h00 | Rendus |
+|-----:|-------------|-------------|----------------|--------|
+| 1 · 14.09 | Cours | Cours | Cours | |
+| 2 · 21.09 | *Jeûne fédéral* | — | Cours | |
+| 3 · 28.09 |  |  |  | |
+| 4 · 05.10 |  |  |  | |
+| 5 · 12.10 |  |  |  | |
+| — · 19.10 | *Semaine spéciale* |  |  | |
+| 6 · 26.10 |  |  |  | |
+| 7 · 02.11 |  |  |  | |
+| 8 · 09.11 |  |  |  | |
+| 9 · 16.11 |  |  |  | |
+| 10 · 23.11 |  |  |  | |
+| 11 · 30.11 |  |  |  | |
+| 12 · 07.12 |  |  |  | |
+| 13 · 14.12 |  |  |  | |
+| — · 21.12 | *Vacances de Noël (21.12 – 08.01)* |  |  | |
+| 14 · 11.01 |  |  |  | |
+| 15 · 18.01 |  |  |  | |
+| 16 · 25.01 |  |  |  | |
 
-: {tbl-colwidths="[11,27,22,28,12]"}
+: {tbl-colwidths="[12,22,22,22,22]"}
 
 ## Évaluation
 
