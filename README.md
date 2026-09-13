@@ -18,7 +18,7 @@ assets/            thème et logo
 ```
 
 Les fichiers réservés aux membres de l'organisation (slides PDF, corrigés)
-sont dans le dépôt privé `course` ; le site y pointe via la variable
+sont dans le dépôt privé `cours` ; le site y pointe via la variable
 `files-url`. Les fichiers placés à côté des pages (p. ex. `materiel/company.postgres.sql`)
 sont publiés avec le site, donc publics.
 

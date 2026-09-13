@@ -19,7 +19,7 @@ Slides des chapitres en PDF. Les chapitres sont numérotés par sujet ; le
 | 8 | JDBC | [PDF]({{< var files-url >}}/materiel/08-JDBC-updated.pdf) | |
 | 9 | Indexation | [PDF]({{< var files-url >}}/materiel/09-IndexationNew.pdf) | |
 
-Les PDF sont dans le dépôt privé [`course`]({{< var files-url >}}) de l'organisation (accès réservé aux membres), publiés au plus tard le jour du cours.
+Les PDF sont dans le dépôt privé [`cours`]({{< var files-url >}}) de l'organisation (accès réservé aux membres), publiés au plus tard le jour du cours.
 
 ## Livres de référence
 

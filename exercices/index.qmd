@@ -2,7 +2,7 @@
 title: "Exercices"
 ---
 
-Énoncés publiés avec le chapitre, corrigés ajoutés après la séance de correction, dans le dépôt privé [`course`]({{< var files-url >}}/exercices) (accès réservé aux membres).
+Énoncés publiés avec le chapitre, corrigés ajoutés après la séance de correction, dans le dépôt privé [`cours`]({{< var files-url >}}/exercices) (accès réservé aux membres).
 
 | Ch. | Exercices | Énoncé | Corrigé | Séance |
 |---:|---|---|---|---|
