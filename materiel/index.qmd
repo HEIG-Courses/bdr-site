@@ -7,8 +7,8 @@ Slides des chapitres en PDF, dans le dépôt privé [`cours`]({{< var files-url 
 | Ch. | Sujet | Slides | Compléments |
 |---:|---|---|---|
 | 0 | Introduction | [PDF]({{< var files-url >}}/materiel/00-Introduction.pdf) | |
-| 1 | Concepts de base et architecture des SGBD | [PDF]({{< var files-url >}}/materiel/01-Concept_de_base_et_SGDB.pdf) | |
-| 2 | Modélisation entité-association | [PDF]({{< var files-url >}}/materiel/02-Modele_EA.pdf) | |
+| 1 | Concepts de base et architecture des SGBD | [PDF]({{< var files-url >}}/materiel/01-Concept_de_base_et_SGDB-v2.pdf) | |
+| 2 | Modélisation entité-association | [PDF]({{< var files-url >}}/materiel/02-Modele_EA-v2.pdf) | |
 | 3 | Modèle relationnel | [PDF]({{< var files-url >}}/materiel/03-Modele_relationnel.pdf) | [Annexe : contraintes reportables]({{< var files-url >}}/materiel/03-Modele_relationnel_contraintes_deferables.pdf) |
 | 4 | Passage EA → relationnel | [PDF]({{< var files-url >}}/materiel/04-Passage_EA_vers_relationnel.pdf) | |
 | 5 | Algèbre relationnelle | [PDF]({{< var files-url >}}/materiel/05-Algebre_relationnelle.pdf) | |

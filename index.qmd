@@ -15,7 +15,7 @@ subtitle: "HEIG-VD · {{< var semester >}} · classe BDR-C"
 | 3 · 28.09 |  |  |  | |
 | 4 · 05.10 |  |  |  | |
 | 5 · 12.10 |  |  |  | |
-| — · 19.10 | *Semaine spéciale* |  |  | |
+| — · 19.10 | *Travail personnel* |  |  | |
 | 6 · 26.10 |  |  |  | |
 | 7 · 02.11 |  |  |  | |
 | 8 · 09.11 |  |  |  | |
