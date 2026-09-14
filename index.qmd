@@ -4,7 +4,6 @@ subtitle: "HEIG-VD · {{< var semester >}} · classe BDR-C"
 ---
 
 - Horaires : lundi 13h00–14h30 (cours) et 14h45–16h15 (labo), salle G03 · mercredi 13h00–14h30, salle A05b
-- Inscription : [Roster BDR-C-26]({{< var roster-url >}})
 
 ## Planning
 
