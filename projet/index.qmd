@@ -17,6 +17,52 @@ l'organisation GitHub, créé en acceptant le projet dans
 | — | Présentations |
 | — | Rendu final : rapport et slides |
 
+## Choisir un sujet
+
+Voici quelques exemples de projet pour vous inspirer. Le plus important est de
+proposer un sujet qui vous passionne.
+
+:::: {.columns}
+::: {.column width="50%"}
+- Movie Database
+- Covoiturage
+- Gestion de cartes (Magic)
+- Webmail
+- Tournoi de jeux vidéo
+- Gestion d'hôpital
+- Gestion de salles
+- Questionnaires en ligne
+- Gestion pour entreprise pharmaceutique
+- WS Deck Builder
+- BDD sons
+- Furst Système ERP
+:::
+::: {.column width="50%"}
+- Gestion de complexe sportif
+- Gestion de patients dans un service de neuropsychologie
+- Gestion d'une école
+- Location d'objets via site Web
+- Gestion complète d'une maison
+- Organisation d'un festival
+- Gestion de commune
+- Plateforme online d'entraînement personnalisé de fitness
+- Lecteur de musique cross-platform
+- Gestion des cours dans un fitness
+- Gestion des stocks d'un supermarché
+:::
+::::
+
+### Sujets de l'année passée
+
+Quelques projets réalisés en 2025-2026 :
+
+- Système de gestion de tutorat
+- Messagerie avec groupes et canaux
+- Gestion de parties d'un jeu de cartes
+- Générateur de builds aléatoires pour un jeu vidéo (façon Ultimate Bravery)
+- Frigo intelligent : stocks, dates de péremption, listes de courses et recettes
+- Plateforme d'écoute de musique avec historique d'écoute
+
 ## Livrables finaux
 
 **Slides** (PDF)
@@ -36,4 +82,4 @@ l'organisation GitHub, créé en acceptant le projet dans
 - contribution de chaque membre
 - captures d'écran
 
-Chaque phase reçoit un retour dans le dépôt avant la phase suivante.
+Chaque phase fera l'objet d'un retour.
