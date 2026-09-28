@@ -2,7 +2,6 @@
 title: "Labo 2 — Implémentation d'un schéma relationnel"
 ---
 
-- Lancement : Me 07.10 · Rendu : **Di 18.10**
 - Roster : *lien publié au lancement*
 
 ## But

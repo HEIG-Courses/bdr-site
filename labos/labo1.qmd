@@ -2,7 +2,6 @@
 title: "Labo 1 — Modélisation conceptuelle"
 ---
 
-- Lancement : Me 23.09 · Rendu : **Me 07.10**
 - Roster : *lien publié au lancement*
 
 ## But
