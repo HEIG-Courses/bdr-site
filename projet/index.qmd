@@ -3,19 +3,53 @@ title: "Projet"
 ---
 
 Réalisation complète d'une **application de base de données** sur un sujet de
-votre choix, par groupes de 3, en cinq phases. Le projet est un dépôt de
+votre choix, par groupes de 3. Le projet se fait en plusieurs phases, qui
+mettent en pratique les notions vues au cours. Le projet est un dépôt de
 l'organisation GitHub, créé en acceptant le projet dans
 [Roster]({{< var roster-url >}}).
 
-| Phase | Contenu |
-|---|---|
-| I | Cahier des charges : besoins en données et besoins fonctionnels |
-| II | Modélisation conceptuelle : schéma UML |
-| III | Modélisation relationnelle : schéma relationnel, tables et contraintes |
-| IV | Requêtes, vues et déclencheurs |
-| V | Application (modalités précisées ultérieurement) |
-| — | Présentations |
-| — | Rendu final : rapport et slides |
+Cette page est mise à jour au fil du semestre : les consignes détaillées de
+chaque phase y sont ajoutées au lancement de la phase.
+
+## Phases
+
+| Phase | Contenu | À rendre | Rendu |
+|---|---|---|---|
+| I | Cahier des charges | Description de la problématique et analyse des besoins en données et des besoins fonctionnels | **Me 07.10, 23h59** |
+| II | Modélisation conceptuelle | Schéma conceptuel au format UML | **Me 21.10, 23h59** |
+| III | Modélisation relationnelle | Schéma relationnel sous forme de diagramme ; script de création des tables et des contraintes d'intégrité référentielle | **Me 11.11, 23h59** |
+| IV | Interface, requêtes, vues et triggers | Esquisses des pages principales (PDF) ; script d'insertion des données ; script des vues et des triggers ; requêtes liées aux fonctionnalités prévues | **Me 16.12, 23h59** |
+| V | Application | Application web qui permet de consulter et de modifier la base, connectée à la base par une API | avec le rendu final |
+| | Rendu final | Voir [Livrables finaux](#livrables-finaux) | **Di 24.01, 23h59** |
+| | Présentations | Slides dans le dépôt avant **Lu 25.01, 8h30** | Lu 25.01 et Me 27.01 |
+
+: {tbl-colwidths="[8,22,50,20]"}
+
+Tout se rend dans le dépôt du projet, sur GitHub. Le dépôt est relevé à
+chaque date de rendu ; un retard est pénalisé.
+
+Les phases ne sont pas notées une par une : chaque phase est discutée avec
+le groupe, pour améliorer le travail avant le rendu final.
+
+Le projet compte pour 50 % de la note des laboratoires.
+
+## Phase I : cahier des charges
+
+Le cahier des charges décrit votre projet avant toute modélisation. Il
+contient :
+
+- la **problématique** : ce que fait l'application, pour qui ;
+- les **besoins en données** : les objets à stocker, leurs informations et
+  les liens entre eux ;
+- les **besoins fonctionnels** : ce que l'application permet de faire.
+
+Il sert de base aux schémas des phases suivantes.
+
+Exemples d'anciens projets :
+
+- [Aliments et régimes]({{< var files-url >}}/projet/cdc-exemple-1.pdf) (1 page)
+- [Gestion d'un campus]({{< var files-url >}}/projet/cdc-exemple-2.pdf) (2 pages)
+- [Cabinet de médecine douce]({{< var files-url >}}/projet/cdc-exemple-3.pdf) (2 pages)
 
 ## Choisir un sujet
 
@@ -65,6 +99,12 @@ Quelques projets réalisés en 2025-2026 :
 
 ## Livrables finaux
 
+**Dépôt**
+
+- un fichier `README.md` avec les instructions de déploiement
+- le script complet de création de la base de données
+- le code source de l'application, commenté
+
 **Slides** (PDF)
 
 - problématique
@@ -82,4 +122,8 @@ Quelques projets réalisés en 2025-2026 :
 - contribution de chaque membre
 - captures d'écran
 
-Chaque phase fera l'objet d'un retour.
+## Présentation
+
+- 30 minutes par groupe : 20 minutes de présentation, 10 minutes de questions.
+- 10 à 12 slides.
+- Démo des fonctionnalités de l'application.
