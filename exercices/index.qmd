@@ -6,5 +6,5 @@ title: "Exercices"
 
 | Ch. | Exercices | Énoncé | Corrigé |
 |---:|---|---|---|
-| 2 | Modèle EA, schéma *Company* | dans les slides | |
+| 2 | Modèle EA, schémas *Company* (ex. I à III) et *Personnel* (ex. IV) | dans les slides | [Company]({{< var files-url >}}/exercices/02-company-corrige.pdf) · [Personnel]({{< var files-url >}}/exercices/02-personnel-corrige.pdf) |
 | 5 | Algèbre relationnelle | dans les slides | |

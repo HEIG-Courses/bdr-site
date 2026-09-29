@@ -13,3 +13,7 @@ Modéliser une base de données à partir d'une description des besoins : établ
 - Lecture d'un énoncé et identification des entités, attributs et associations
 - Cardinalités, entités faibles, associations n-aires, héritage
 - Outil de dessin : UMLet ou StarUML
+
+## Corrigé Ex. 1
+
+[Corrigé de l'exercice 1 (étapes I à III)]({{< var files-url >}}/labos/labo1-ex1-etapes1-3-corrige.pdf)
