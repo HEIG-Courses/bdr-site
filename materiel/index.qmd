@@ -2,8 +2,6 @@
 title: "Matériel de cours"
 ---
 
-Slides des chapitres en PDF, dans le dépôt privé [`cours`]({{< var files-url >}}) (membres de l'organisation).
-
 | Ch. | Sujet | Slides | Compléments |
 |---:|---|---|---|
 | 0 | Introduction | [PDF]({{< var files-url >}}/materiel/00-Introduction.pdf) | |
