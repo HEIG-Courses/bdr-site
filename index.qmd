@@ -12,7 +12,7 @@ subtitle: "HEIG-VD · {{< var semester >}} · classe BDR-C"
 | 1 · 14.09 | Cours | Cours | Cours | |
 | 2 · 21.09 | *Jeûne fédéral* | — | Cours | |
 | 3 · 28.09 | [Projet](projet/index.qmd) : lancement | Labo 1 | Cours | |
-| 4 · 05.10 |  |  |  | Projet phase I (Me 07.10) |
+| 4 · 05.10 | Cours | Labo / projet | Cours | Projet phase I (Me 07.10) |
 | 5 · 12.10 |  |  |  | |
 | — · 19.10 | *Travail personnel* |  |  | |
 | 6 · 26.10 |  |  |  | |
