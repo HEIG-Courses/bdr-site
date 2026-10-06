@@ -3,6 +3,7 @@ title: "Labo 1 — Modélisation conceptuelle"
 ---
 
 - Roster : *lien publié au lancement*
+- Rendu : **Di 11.10, 23h59** (état du dépôt à cette date)
 
 ## But
 
