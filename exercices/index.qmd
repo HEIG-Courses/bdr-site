@@ -2,8 +2,6 @@
 title: "Exercices"
 ---
 
-Énoncés et corrigés dans le dépôt privé [`cours`]({{< var files-url >}}/exercices) (membres de l'organisation).
-
 | Ch. | Exercices | Énoncé | Corrigé |
 |---:|---|---|---|
 | 2 | Modèle EA, schémas *Company* (ex. I à III) et *Personnel* (ex. IV) | dans les slides | [Company]({{< var files-url >}}/exercices/02-company-corrige.pdf) · [Personnel]({{< var files-url >}}/exercices/02-personnel-corrige.pdf) |
