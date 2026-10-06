@@ -17,3 +17,5 @@ Modéliser une base de données à partir d'une description des besoins : établ
 ## Corrigé Ex. 1
 
 [Corrigé de l'exercice 1 (étapes I à III)]({{< var files-url >}}/labos/labo1-ex1-etapes1-3-corrige.pdf)
+
+[Corrigé de l'exercice 1 (étape IV)]({{< var files-url >}}/labos/labo1-ex1-etape4-corrige.pdf)
